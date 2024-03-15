@@ -1,0 +1,6 @@
+$ java LaunchProcess.java ./english_words.txt
+Average length = 8.100019171254074
+Longest word's length = 22
+Most frequent letter = e
+Exit value is: 0
+Time to finish all tasks: 317 ms

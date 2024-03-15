@@ -1,1 +1,1 @@
-# CISC 1115 Operating Systems Notes
+# CISC 3320 (Operating Systems) Notes
