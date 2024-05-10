@@ -1,0 +1,7 @@
+The largest possible page number is: 1048575
+The page table size is: 4194304 bytes
+Given the address of 20221108
+The page number is: 4936
+The page offset is: 3252
+With a 2-level page table, the outer page number (p1) is: 4
+With a 2-level page table, the inner page number (p2) is: 840
